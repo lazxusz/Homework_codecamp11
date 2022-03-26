@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+display: inline-block;
+box-shadow: 4px 8px 8px silver;
+width: 300px;
+border-radius: 5px;
+margin: 5px;
+}
+img {
+border-radius: 5px 5px 0 0;
+width: 100%;
+}
+.container {
+margin-top: -5px;
+padding: 2px 16px;
+text-align: center;
+background-color: aqua;
+border-radius: 5px;
+}
+h4 {
+  margin-bottom: 5px;
+}
+p {
+  margin-top: 5px;
+}
